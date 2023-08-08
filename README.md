@@ -1,7 +1,7 @@
 # Week1-Skill-Badge
 ©️ CodingWithHardik<br>
 **[NOTE]** Give credit when you use my code in your videos or share this code to someone.<br>
-If lab not working contact me on [Instagram @hardikgupta.social](https://www.instagram.com/hardikgupta.social/)<br>
+If lab not working contact me on [Instagram @codingwithhardik](https://www.instagram.com/codingwithhardik/)<br>
 **Quest :**
 | S.NO | QUEST NAME | SOLUTION STATUS | TOTAL LABS | TOTAL LABS SOLUTION UPLOADED | MANUAL LABS | OPTIONAL LABS | LAB LINK | SOLUTION LINK |
 |------|------------|-----------------|------------|------------------------------|-------------|---------------|----------|---------------|
