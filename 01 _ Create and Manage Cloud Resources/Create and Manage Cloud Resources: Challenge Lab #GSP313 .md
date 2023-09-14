@@ -1,4 +1,5 @@
 # GSP313
+[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
 ### Run in cloudshell
 ```cmd
 export ZONE=
@@ -38,7 +39,7 @@ EOF
 gcloud compute instance-templates create web-server-template --region $REGION \
 --metadata-from-file startup-script=startup.sh \
 --network nucleus-vpc \
---machine-type g1-small
+--machine-type e2-micro
 gcloud compute target-pools create nginx-pool --region=$REGION
 gcloud compute instance-groups managed create web-server-group --region $REGION \
 --base-instance-name web-server \
