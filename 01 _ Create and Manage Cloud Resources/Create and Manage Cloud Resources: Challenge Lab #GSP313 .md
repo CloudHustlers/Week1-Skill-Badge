@@ -43,7 +43,7 @@ gcloud compute instance-groups managed create web-server-group --region $REGION 
 --size 2 \
 --template web-server-template
 gcloud compute firewall-rules create $FIREWALL_NAME \
---allow tcp:80 \
+--allow tcp:80
 gcloud compute http-health-checks create http-basic-check
 gcloud compute instance-groups managed \
 set-named-ports web-server-group \
